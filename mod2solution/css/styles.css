@@ -11,7 +11,7 @@ h1 {
 
 section {
     border: 1px solid black;    
-    background-color: #FCB9AA;
+    background-color: #F3DCD4;
     height: 250px;
     overflow: auto;
 }
@@ -32,15 +32,15 @@ ul {
 }
 
 #Chicken {
-    background-color: #8FCACA;
+    background-color: #C2C2B4;
 }
 
 #Beef {
-    background-color: #8FCACA;
+    background-color: #C2C2B4;
 }
 
 #Sushi {
-    background-color: #8FCACA;
+    background-color: #C2C2B4;
 }
 
 

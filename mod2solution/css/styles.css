@@ -11,7 +11,7 @@ h1 {
 
 section {
     border: 1px solid black;    
-    background-color: #FCB9AA;
+    background-color: #A9A9A9;
     height: 250px;
     overflow: auto;
 }

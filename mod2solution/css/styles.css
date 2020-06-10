@@ -30,11 +30,13 @@ ul {
     clear: right;
     width: 90%;
 }
-.background-img {
+
+#background-img {
     background:url('brbq.png');
-    width:10%;
+    position:bottom-left;
+    width:20%;
     height:20px; 
-    }
+}
 
 #Chicken {
     background-color: #D46F4D;

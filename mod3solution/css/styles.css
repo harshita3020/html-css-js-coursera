@@ -1,12 +1,11 @@
 body {
   font-size: 16px;
-  color: rgba(0, 0, 0, 0.884);
-  background-color: #61BAFD;
+  background-color: #BEA1A5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #header-nav {
-  background-color: #FF8B8B;
+  background-color: #371722;
   border-radius: 0;
   border: 0;
   min-height: 70px;
@@ -14,7 +13,7 @@ body {
 
 .navbar-brand h1 {
   font-family: 'Lora', serif;
-  color: #61BAFD;
+  color: #BEA1A5;
   font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
@@ -28,7 +27,7 @@ body {
 }
 
 #nav-list a {
-  color: #61BAFD;
+  color: #BEA1A5;
   font-weight: bold;
 }
 
@@ -37,7 +36,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61BAFD;
+  border: 1px solid #BEA1A5;
 }
 
 .navbar-header button.navbar-toggle {
